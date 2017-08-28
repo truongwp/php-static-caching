@@ -3,7 +3,10 @@ PHP caching class uses static variable to cache data during runtime
 ## Installation
 
 Use composer to include the library:
-`composer require truongwp/php-static-cache`
+
+```
+composer require truongwp/php-static-cache
+```
 
 ## Example
 
